@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.env.*
+.venv/
+env/
+venv/
+ENV/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Tooling caches
+.cache/
+.coverage
+.coverage.*
+.hypothesis/
+.mypy_cache/
+.pytest_cache/
+.tox/
+htmlcov/
+
+# IDE and OS files
+.idea/
+.vscode/
+workspace.xml
+.DS_Store
+Thumbs.db
+
+# Large model artifacts
+models/
+models_original/
+*.pth
+*.pt
+*.ckpt
+models.zip
+models_original.zip
+
+# Local outputs
+outputs/
+
+# Local clone of the Hugging Face model repository
+hf_uscorunet_model_card/

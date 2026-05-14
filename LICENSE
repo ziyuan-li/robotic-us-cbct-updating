@@ -1,0 +1,21 @@
+Non-Commercial Academic Research License
+
+Copyright (c) 2026 Feng Li, Ziyuan Li, Zhongliang Jiang, Nassir Navab, Yuan Bi.
+
+Permission is granted to use, copy, modify, and distribute this code for
+non-commercial academic research purposes, subject to the following conditions:
+
+1. The code may not be used for commercial purposes without prior written
+   permission from the authors.
+2. The code is provided for research use only and is not approved for clinical,
+   diagnostic, therapeutic, or other medical decision-making use.
+3. Redistributions must retain this license notice and acknowledge the original
+   paper, "Robotic Ultrasound Makes CBCT Alive".
+4. Model checkpoints are distributed separately through Hugging Face under the
+   CC BY-NC 4.0 license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM USE OF THE SOFTWARE.
