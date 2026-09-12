@@ -12,6 +12,8 @@ Code repository:
 
 ## Demo Video
 
+Animated preview from the demo video, starting at 45 s:
+
 <a href="assets/robotic_us_cbct_alive.mp4">
   <img src="assets/robotic_us_cbct_alive_preview.gif" alt="Robotic Ultrasound Makes CBCT Alive demo video" width="720">
 </a>
