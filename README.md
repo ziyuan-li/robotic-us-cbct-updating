@@ -13,10 +13,10 @@ Code repository:
 ## Demo Video
 
 <a href="assets/robotic_us_cbct_alive.mp4">
-  <img src="assets/robotic_us_cbct_alive_preview.png" alt="Robotic Ultrasound Makes CBCT Alive demo video" width="720">
+  <img src="assets/robotic_us_cbct_alive_preview.gif" alt="Robotic Ultrasound Makes CBCT Alive demo video" width="720">
 </a>
 
-[Watch the MP4 demo](assets/robotic_us_cbct_alive.mp4)
+[Watch or download the full-resolution MP4 demo](assets/robotic_us_cbct_alive.mp4)
 
 ## Overview
 
@@ -32,7 +32,7 @@ This release includes:
 - `infer_utils.py`: image I/O, preprocessing, warping, and checkpoint loading helpers.
 - `download_checkpoints.py`: checkpoint downloader for the Hugging Face model repository.
 - `examples/`: small ultrasound and ultrasound+CBCT demo cases.
-- `assets/`: README media, including the project demo video.
+- `assets/`: README media, including the animated preview and full-resolution demo video.
 
 ## Installation
 
