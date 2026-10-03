@@ -197,11 +197,15 @@ python infer_us_flow.py \
 If you use this code or the USCorUNet checkpoints, please cite:
 
 ```bibtex
-@article{li2026robotic,
-  title={Robotic Ultrasound Makes CBCT Alive},
+@InProceedings{LiFen_Robotic_MICCAI2026,
   author={Li, Feng and Li, Ziyuan and Jiang, Zhongliang and Navab, Nassir and Bi, Yuan},
-  journal={arXiv preprint arXiv:2603.10220},
-  year={2026}
+  title={{Robotic Ultrasound Makes CBCT Alive}},
+  booktitle={Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
+  year={2026},
+  publisher={Springer Nature Switzerland},
+  volume={LNCS 16893},
+  month={September},
+  pages={436--446}
 }
 ```
 

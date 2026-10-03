@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use USCorUNet or these checkpoints, please cite this work."
+title: "Robotic Ultrasound Makes CBCT Alive"
+authors:
+  - family-names: "Li"
+    given-names: "Feng"
+  - family-names: "Li"
+    given-names: "Ziyuan"
+  - family-names: "Jiang"
+    given-names: "Zhongliang"
+  - family-names: "Navab"
+    given-names: "Nassir"
+  - family-names: "Bi"
+    given-names: "Yuan"
+year: 2026
+repository-code: "https://github.com/ziyuan-li/robotic-us-cbct-updating"
+url: "https://papers.miccai.org/miccai-2026/0901-Paper5031.html"
+preferred-citation:
+  type: conference-paper
+  title: "Robotic Ultrasound Makes CBCT Alive"
+  authors:
+    - family-names: "Li"
+      given-names: "Feng"
+    - family-names: "Li"
+      given-names: "Ziyuan"
+    - family-names: "Jiang"
+      given-names: "Zhongliang"
+    - family-names: "Navab"
+      given-names: "Nassir"
+    - family-names: "Bi"
+      given-names: "Yuan"
+  collection-title: "Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026"
+  publisher:
+    name: "Springer Nature Switzerland"
+  volume: "LNCS 16893"
+  year: 2026
+  month: 9
+  start: 436
+  end: 446
+  url: "https://papers.miccai.org/miccai-2026/0901-Paper5031.html"
