@@ -2,6 +2,8 @@
 
 Official inference code for **"Robotic Ultrasound Makes CBCT Alive"**.
 
+[Paper (MICCAI 2026, Springer)](https://link.springer.com/chapter/10.1007/978-3-032-38236-8_42)
+
 This repository provides a lightweight release of the ultrasound deformation and
 deformation-aware CBCT updating pipeline. The model weights are hosted
 separately on Hugging Face at
